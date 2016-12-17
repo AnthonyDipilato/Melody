@@ -14,7 +14,7 @@ Note Frequencies
 From (https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki#Ugly_Details
 
 |Note | Note | Note |
-|—|—|—|
+|—--|—--|—--|
 |NOTE_B2 123 	|	NOTE_C3 131 	|	NOTE_CS3 139  | 
 |NOTE_D3 147 	|	NOTE_DS3 156 	|	NOTE_E3 165   |
 |NOTE_F3 175	|	NOTE_FS3 185	|	NOTE_G3 196   |
