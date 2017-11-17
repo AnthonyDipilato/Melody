@@ -1,5 +1,4 @@
-Arduino Simple Melody Library 
-Written By Anthony DiPilato
+# Arduino Simple Melody Library 
 
 A simple melody library for a piezo buzzer.
 Most of the arduino examples use a delay to control note length. This blocks the loop until the note finishes which isn’t practical in most applications. This library uses an array of notes and lengths play a simple melody without freezing the loop by checking the status of the current note in the main loop.
@@ -8,10 +7,10 @@ Status of notes are checked by including Melody.loop_() in the main loop
 
 Main use is for notifications it is not really intended to complicated melodies.
 
-The original melody example: https://www.arduino.cc/en/tutorial/melody
+The original melody example: (https://www.arduino.cc/en/tutorial/melody)
 
-Note Frequencies 
-From (https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki#Ugly_Details
+### Note Frequencies 
+From (https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki#Ugly_Details)
 
 | |  |  |
 |---|---|---|
@@ -37,3 +36,9 @@ From (https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentatio
 |NOTE_GS7 3322 	|	NOTE_A7 3520 	|	NOTE_AS7 3729 |
 |NOTE_B7 3951 	|	NOTE_C8 4186 	|	NOTE_CS8 4435 |
 |NOTE_D8 4699 	|	NOTE_DS8 4978 	| 		      |
+
+### Author
+Anthony DiPilato, Anthony@bumbol.com
+
+### License
+All code is available under the MIT license. See LICENSE file for info.
