@@ -7,10 +7,10 @@ Status of notes are checked by including Melody.loop_() in the main loop
 
 Main use is for notifications it is not really intended to complicated melodies.
 
-The original melody example: (https://www.arduino.cc/en/tutorial/melody)
+The original melody example: https://www.arduino.cc/en/tutorial/melody
 
 ### Note Frequencies 
-From (https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki#Ugly_Details)
+From https://code.google.com/archive/p/rogue-code/wikis/ToneLibraryDocumentation.wiki#Ugly_Details
 
 | |  |  |
 |---|---|---|
